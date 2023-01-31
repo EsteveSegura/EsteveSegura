@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Esteve a.k.a GiR](http://girlazo.com/)
 
- [![ProtonMail Badge](https://img.shields.io/badge/protonmail-red?style=flat-square&logo=protonmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://girlazo.com)](http://girlazo.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/girlazote)](https://twitter.com/girlazote) 
+ [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://girlazo.com)](http://girlazo.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/girlazote)](https://twitter.com/girlazote) 
 
 
 I work as Software Engineer & Tech Lead at [voicemod](https://voicemod.net), creating products like [tuna](https://tuna.voicemod.net) and pushing important aspects of the development culture such as: Testing, DevOps, CI/CD ... etc.
